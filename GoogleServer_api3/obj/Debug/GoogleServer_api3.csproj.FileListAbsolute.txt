@@ -1,0 +1,6 @@
+C:\Users\Dick\source\repos\SBuilderX_Plugins\GoogleServer_api3\bin\Debug\GoogleServer_api3.dll
+C:\Users\Dick\source\repos\SBuilderX_Plugins\GoogleServer_api3\bin\Debug\GoogleServer_api3.pdb
+C:\Users\Dick\source\repos\SBuilderX_Plugins\GoogleServer_api3\bin\Debug\TileServer.dll
+C:\Users\Dick\source\repos\SBuilderX_Plugins\GoogleServer_api3\obj\Debug\GoogleServer_api3.csproj.CoreCompileInputs.cache
+C:\Users\Dick\source\repos\SBuilderX_Plugins\GoogleServer_api3\obj\Debug\GoogleServer_api3.dll
+C:\Users\Dick\source\repos\SBuilderX_Plugins\GoogleServer_api3\obj\Debug\GoogleServer_api3.pdb
