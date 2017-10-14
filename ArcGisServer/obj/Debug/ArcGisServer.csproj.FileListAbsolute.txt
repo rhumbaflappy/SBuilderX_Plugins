@@ -1,0 +1,6 @@
+C:\Users\Dick\source\repos\SBuilderX_Plugins\ArcGisServer\bin\Debug\ArcGisServer.dll
+C:\Users\Dick\source\repos\SBuilderX_Plugins\ArcGisServer\bin\Debug\ArcGisServer.pdb
+C:\Users\Dick\source\repos\SBuilderX_Plugins\ArcGisServer\bin\Debug\TileServer.dll
+C:\Users\Dick\source\repos\SBuilderX_Plugins\ArcGisServer\obj\Debug\ArcGisServer.csproj.CoreCompileInputs.cache
+C:\Users\Dick\source\repos\SBuilderX_Plugins\ArcGisServer\obj\Debug\ArcGisServer.dll
+C:\Users\Dick\source\repos\SBuilderX_Plugins\ArcGisServer\obj\Debug\ArcGisServer.pdb

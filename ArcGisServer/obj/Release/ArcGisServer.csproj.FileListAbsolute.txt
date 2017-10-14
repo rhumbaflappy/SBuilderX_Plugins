@@ -1,0 +1,13 @@
+C:\Users\Dick\Documents\dotPeek\ArcGisServer\obj\Release\ArcGisServer.csproj.CoreCompileInputs.cache
+C:\Users\Dick\Documents\dotPeek\ArcGisServer\bin\Release\ArcGisServer.dll
+C:\Users\Dick\Documents\dotPeek\ArcGisServer\bin\Release\ArcGisServer.pdb
+C:\Users\Dick\Documents\dotPeek\ArcGisServer\bin\Release\TileServer.dll
+C:\Users\Dick\Documents\dotPeek\ArcGisServer\obj\Release\ArcGisServer.dll
+C:\Users\Dick\Documents\dotPeek\ArcGisServer\obj\Release\ArcGisServer.pdb
+C:\Users\Dick\source\repos\SBuilderX_Plugins\ArcGisServer\bin\Release\ArcGisServer.dll
+C:\Users\Dick\source\repos\SBuilderX_Plugins\ArcGisServer\bin\Release\ArcGisServer.pdb
+C:\Users\Dick\source\repos\SBuilderX_Plugins\ArcGisServer\bin\Release\TileServer.dll
+C:\Users\Dick\source\repos\SBuilderX_Plugins\ArcGisServer\obj\Release\ArcGisServer.csprojResolveAssemblyReference.cache
+C:\Users\Dick\source\repos\SBuilderX_Plugins\ArcGisServer\obj\Release\ArcGisServer.csproj.CoreCompileInputs.cache
+C:\Users\Dick\source\repos\SBuilderX_Plugins\ArcGisServer\obj\Release\ArcGisServer.dll
+C:\Users\Dick\source\repos\SBuilderX_Plugins\ArcGisServer\obj\Release\ArcGisServer.pdb
