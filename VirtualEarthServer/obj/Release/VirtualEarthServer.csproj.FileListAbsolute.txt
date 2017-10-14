@@ -1,0 +1,7 @@
+C:\Users\Dick\source\repos\SBuilderX_Plugins\VirtualEarthServer\bin\Release\VirtualEarthServer.dll
+C:\Users\Dick\source\repos\SBuilderX_Plugins\VirtualEarthServer\bin\Release\VirtualEarthServer.pdb
+C:\Users\Dick\source\repos\SBuilderX_Plugins\VirtualEarthServer\bin\Release\TileServer.dll
+C:\Users\Dick\source\repos\SBuilderX_Plugins\VirtualEarthServer\obj\Release\VirtualEarthServer.csprojResolveAssemblyReference.cache
+C:\Users\Dick\source\repos\SBuilderX_Plugins\VirtualEarthServer\obj\Release\VirtualEarthServer.csproj.CoreCompileInputs.cache
+C:\Users\Dick\source\repos\SBuilderX_Plugins\VirtualEarthServer\obj\Release\VirtualEarthServer.dll
+C:\Users\Dick\source\repos\SBuilderX_Plugins\VirtualEarthServer\obj\Release\VirtualEarthServer.pdb
