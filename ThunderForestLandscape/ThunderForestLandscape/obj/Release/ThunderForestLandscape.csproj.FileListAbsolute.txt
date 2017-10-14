@@ -1,0 +1,7 @@
+C:\Users\Dick\source\repos\My_SBuilderX_Plugins\ThunderForestLandscape\ThunderForestLandscape\obj\Release\ThunderForestLandscape.csprojResolveAssemblyReference.cache
+C:\Users\Dick\source\repos\My_SBuilderX_Plugins\ThunderForestLandscape\ThunderForestLandscape\obj\Release\ThunderForestLandscape.csproj.CoreCompileInputs.cache
+C:\Users\Dick\source\repos\My_SBuilderX_Plugins\ThunderForestLandscape\ThunderForestLandscape\bin\Release\ThunderForestLandscape.dll
+C:\Users\Dick\source\repos\My_SBuilderX_Plugins\ThunderForestLandscape\ThunderForestLandscape\bin\Release\ThunderForestLandscape.pdb
+C:\Users\Dick\source\repos\My_SBuilderX_Plugins\ThunderForestLandscape\ThunderForestLandscape\bin\Release\TileServer.dll
+C:\Users\Dick\source\repos\My_SBuilderX_Plugins\ThunderForestLandscape\ThunderForestLandscape\obj\Release\ThunderForestLandscape.dll
+C:\Users\Dick\source\repos\My_SBuilderX_Plugins\ThunderForestLandscape\ThunderForestLandscape\obj\Release\ThunderForestLandscape.pdb
