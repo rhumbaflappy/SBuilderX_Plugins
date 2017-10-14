@@ -1,0 +1,6 @@
+C:\Users\Dick\source\repos\SBuilderX_Plugins\GLS_Server\bin\Debug\GLS_Server.dll
+C:\Users\Dick\source\repos\SBuilderX_Plugins\GLS_Server\bin\Debug\GLS_Server.pdb
+C:\Users\Dick\source\repos\SBuilderX_Plugins\GLS_Server\bin\Debug\TileServer.dll
+C:\Users\Dick\source\repos\SBuilderX_Plugins\GLS_Server\obj\Debug\GLS_Server.csproj.CoreCompileInputs.cache
+C:\Users\Dick\source\repos\SBuilderX_Plugins\GLS_Server\obj\Debug\GLS_Server.dll
+C:\Users\Dick\source\repos\SBuilderX_Plugins\GLS_Server\obj\Debug\GLS_Server.pdb
